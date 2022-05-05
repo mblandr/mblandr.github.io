@@ -797,6 +797,9 @@ Features
 	align-items: center;
 }
 
+.features__pay-icons img {
+	display: block;
+}
 .features__pay-icons>* {
 	margin-left: 3.2rem;
 }
